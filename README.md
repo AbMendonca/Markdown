@@ -27,3 +27,9 @@ Ao utilizar o 1. e após a frase clicar em Enter ele já numera automaticamente 
 - [ ] Criar tarefa
 - [x] Criar QA
       
+Colocando link [clique aqui](https://www.youtube.com/watch?v=L3b2gRB7YVc) 
+
+Criando Tabela
+n° | nome | nota
+---|---|---
+01| Abraão| 10
